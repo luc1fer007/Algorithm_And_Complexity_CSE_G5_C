@@ -23,11 +23,11 @@ int main()
     }
     for (int i = 0; i < n; ++i)
     {
-        cout << arr[i];
-        if (i < n - 1)
+        if (i)
         {
             cout << ' ';
         }
+        cout << arr[i];
     }
     cout << '\n';
     cout << count << '\n';
