@@ -11,6 +11,8 @@ Sorting Algorithms
 - Insertion Sort
 - Bubble Sort
 - Counting Sort
+- Merge Sort(Aizu)
+
 
 Searching Algorithms
 - Linear Search
